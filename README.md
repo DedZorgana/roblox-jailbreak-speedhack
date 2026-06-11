@@ -8,7 +8,7 @@ For educational purposes only. Use at your own risk.
 
 ```
 
-```
+```lua
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
 local Players = game:GetService("Players")
